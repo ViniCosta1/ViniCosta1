@@ -1,9 +1,9 @@
 ### Eae, Sou o Vinicius 👋
 
 <div align="center">
-  <a href="https://github.com/maxterfv">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maxterfv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width = "500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxterfv&layout=compact&langs_count=7&theme=dracula&"/>
+  <a href="https://github.com/vinicosta1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinicosta1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width = "500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicosta1&layout=compact&langs_count=7&theme=dracula&"/>
 </div>
  
   
@@ -22,5 +22,5 @@
   <a href = "mailto:iaracostalins@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.twitch.tv/maxterfv" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   
-  ![Snake Animation](https://github.com/maxterfv/maxterfv/blob/output/github-contribution-grid-snake.svg)
+  ![Snake Animation](https://github.com/vinicosta1/vinicosta1/blob/output/github-contribution-grid-snake.svg)
 </div>
