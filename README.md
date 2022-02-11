@@ -1,4 +1,4 @@
-### Eae, Sou o Vinicius 👋
+### Olá, eu sou o Vinicius 👋
 
 <div align="center">
   <a href="https://github.com/vinicosta1">
